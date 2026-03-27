@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "MathewTaken.aternos.me",
-    "port": 16611,
-    "version": "",
+    "port": "16611",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
